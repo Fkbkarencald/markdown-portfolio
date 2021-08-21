@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+# Skills
+Below is a _list_ of **techinical skills**:
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+## Programming languages
+- Javascipt
+- Java
+- Vue Framework
